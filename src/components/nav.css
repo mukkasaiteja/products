@@ -1,0 +1,13 @@
+.nav{
+    display: flex;
+    padding: 20px;
+    align-items: center;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+}
+.iteams a{
+    margin-right: 30px;
+    text-decoration: none;
+    color: wheat;
+}
